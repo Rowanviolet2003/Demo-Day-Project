@@ -9,6 +9,7 @@
 nav ul a,
 nav .brand-logo {
   color: #444;
+  font-family: "cursive"
 }
 
 p {
@@ -17,6 +18,7 @@ p {
 
 .sidenav-trigger {
   color: #26a69a;
+  
 }
 
 .parallax-container {
