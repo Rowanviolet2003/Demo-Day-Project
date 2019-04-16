@@ -1,8 +1,8 @@
 .cursive {
-    font-family: "cursive"
+  font-family: "cursive"
 }
 .yoga {
-    /* background: transparent no-repeat center;
-    background-size: cover; */
-    width: auto;
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
 }
