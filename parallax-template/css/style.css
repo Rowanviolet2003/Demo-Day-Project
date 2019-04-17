@@ -9,15 +9,17 @@
 nav ul a,
 nav .brand-logo {
   color: #444;
-  font-family: "cursive"
+  font-family: cursive
 }
 
 p {
   line-height: 2rem;
+ font-family: cursive
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #6e778f;
+  font-family: cursive
   
 }
 
@@ -26,9 +28,11 @@ p {
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
+  font-family: cursive
 }
   .parallax-container .section {
     width: 100%;
+    font-family: cursive
   }
 
 @media only screen and (max-width : 992px) {
@@ -40,13 +44,16 @@ p {
     top: 10%;
   }
 }
+    .page-footer {
+        background-color: rgb(27, 78, 145);
+        font-family: cursive
+    }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
   }
 }
-
 .icon-block {
   padding: 0 15px;
 }
