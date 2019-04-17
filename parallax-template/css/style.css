@@ -57,3 +57,21 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.activity-container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.activity {
+  display: inline-block;
+  position: relative;
+}
+
+.activity .title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
