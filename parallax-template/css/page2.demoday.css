@@ -1,8 +1,14 @@
 .cursive {
   font-family: cursive;
+  color: black;
 }
 .yoga {
   object-fit: cover;
   height: 200px;
   width: 200px;
+}
+
+.activity{
+color: black;
+font-family: cursive;
 }
