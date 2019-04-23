@@ -1,0 +1,9 @@
+h1 {
+    font-family: cursive;
+    color: rgb(71, 71, 168);
+}
+
+#calming-images .carousel-item {
+    width: 500px;
+    height: 500px;
+}
