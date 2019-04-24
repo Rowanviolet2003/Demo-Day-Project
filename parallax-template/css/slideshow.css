@@ -1,9 +1,5 @@
-h1 {
+.center {
     font-family: cursive;
-    color: rgb(71, 71, 168);
+    color: rgb(0, 0, 0);
 }
 
-#calming-images .carousel-item {
-    width: 500px;
-    height: 500px;
-}
