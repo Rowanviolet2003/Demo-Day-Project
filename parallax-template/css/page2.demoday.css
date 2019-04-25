@@ -9,7 +9,9 @@
 }
 
 .activity{
-color: black;
+color: rgb(0, 0, 0);
 font-family: cursive;
 font-weight: bold;
+text-decoration-line: underline;
+font-size: 17px;
 }

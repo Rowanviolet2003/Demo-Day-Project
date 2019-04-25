@@ -10,8 +10,12 @@
     font-family: cursive;
     border-radius: 15px;
     border: 1.5px solid rgb(0, 0, 0);
-    float: left;
     text-align: center;
+    width: 10%;
+    height: 10%;
+    position: absolute;
+    top: 60%;
+    left: 45%;
 }
 
 .button:hover {
